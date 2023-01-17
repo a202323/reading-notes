@@ -1,1 +1,2 @@
-# reading-note
+# my note   
+hello 
