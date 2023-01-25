@@ -1,10 +1,13 @@
-# arif abesha
+# reading-note
 
-## growth mindset to me wiling to learn from your mistakes 
+## growth mindset 
 
-- Practice 
-* crativity
-+ Hard work 
+Growth mindset means to me update my self by reading different books to improve my skills 
 
-my github can be found here(https://github.com/a202323/reading-notes/edit/main/README.md)
-this the test
+### some reminders 
+
+- I’m open minded to learn something new about the new technology 
+- i will be collecting feedback from different customers to improve my skills 
+- it’s needed to challenge myself by working with others with comfort zones 
+ 
+
